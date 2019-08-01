@@ -1,0 +1,2 @@
+#USDA API KEY
+ENV['USDA_API_KEY'] = 'eLVfEx1hykj95NbOuK9CfBUKDcCw66sngNujDgku'
